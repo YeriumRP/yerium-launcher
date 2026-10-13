@@ -1,7 +1,7 @@
 [LORE]
-# Quarto Ciclo: Fé
+# Quarto Ciclo: Nós
 
-A corrupção vira Deus.
+Todos somos um.
 
 ---
 
@@ -15,4 +15,4 @@ A corrupção vira Deus.
 [REGISTRO]
 # Sábio.
 
-Nem todo incêndio começa com fogo.
+Unificar.
