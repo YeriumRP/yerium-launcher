@@ -1,7 +1,7 @@
 {
-  "version": "0.5.3",
-  "downloadUrl": "https://github.com/YeriumRP/yerium-launcher/releases/download/v0.5.3/YeriumRP-0.5.3-win-x64.zip",
-  "sha256": "8a7cde732f4284276caa7232017c9d5df2c0ee38d0ed84cde84f3d1d2989d107",
-  "notes": "Corrige o cache de perfil NeoForge 21.1.250; Minecraft 1.21.1 / NeoForge 21.1.265; visual original mantido.",
-  "publishedAt": "2026-11-13T09:49:01Z"
+  "version": "0.5.6",
+  "downloadUrl": "https://github.com/YeriumRP/yerium-launcher/releases/download/v0.5.6/YeriumRP-0.5.6-win-x64.zip",
+  "sha256": "8dc5f0b1e2f7bd82474999cb9412fe7d404737a780a5978a003325ede59e3c69",
+  "notes": "Novo Y cobre da temporada Samhain e novo fundo real de Minecraft (casa de Halloween sob chuva). Minecraft 1.21.1 / NeoForge 21.1.265 mantidos; funcoes do launcher preservadas.",
+  "publishedAt": "2026-11-13T16:00:00Z"
 }
