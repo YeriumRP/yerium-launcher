@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "downloadUrl": "https://github.com/YeriumRP/yerium-launcher/releases/download/v0.5.2/YeriumRP-0.5.2-win-x64.zip",
-  "sha256": "03e604d06e518c9a609b9c56e44f8b92386181aa014ae9d161d90f226dcdcc77",
-  "notes": "Correção da atualização automática e botão visível; Minecraft 1.21.1 / NeoForge 21.1.265; visual original.",
-  "publishedAt": "2026-11-13T08:58:55Z"
+  "version": "0.5.3",
+  "downloadUrl": "https://github.com/YeriumRP/yerium-launcher/releases/download/v0.5.3/YeriumRP-0.5.3-win-x64.zip",
+  "sha256": "8a7cde732f4284276caa7232017c9d5df2c0ee38d0ed84cde84f3d1d2989d107",
+  "notes": "Corrige o cache de perfil NeoForge 21.1.250; Minecraft 1.21.1 / NeoForge 21.1.265; visual original mantido.",
+  "publishedAt": "2026-11-13T09:49:01Z"
 }
